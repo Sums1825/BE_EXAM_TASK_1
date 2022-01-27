@@ -1,0 +1,40 @@
+{
+	"musics":[
+		{
+			"title" : "Nang Dumating ka",
+			"year" : "2021",
+			"artist" : "Bandang Lapis",
+			"genre" : "Altenative Rock"
+		},
+		{
+			"title" : "Nothing",
+			"year" : "2010",
+			"artist" : "The Script",
+			"genre" : "Pop"
+		},
+		{
+			"title" : "One",
+			"year" : "1989*",
+			"artist" : "Bee Gees",
+			"genre" : "Altenative Rock"
+		},
+		{
+			"title" : "Lagi",
+			"year" : "2021",
+			"artist" : "Skusta Clee",
+			"genre" : "Hip-Hop/Rap"
+		},
+		{
+			"title" : "That's What You Get",
+			"year" : "2007",
+			"artist" : "Paramore",
+			"genre" : "Altenative Rock"
+		},
+		{
+			"title" : "Drowning",
+			"year" : "2001",
+			"artist" : "Backstreet Boys",
+			"genre" : "Pop"
+		}
+	]
+}
